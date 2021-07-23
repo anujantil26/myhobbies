@@ -1,0 +1,58 @@
+
+body
+{
+    background-color: #C6B4CE;
+    background-color: #E6DDC6;
+
+    background-color: #CDF0EA;
+    background-color: #EDF6E5;
+}
+
+hr
+{
+    
+    background-color : none;
+
+   
+    border-width: 4px;
+    
+
+   
+
+    border-style : none none dotted none;
+
+    width:150px;
+
+}
+
+a
+{
+    color : lightcoral;
+
+    color: #BEAEE2;
+
+    color: #A19882;
+
+    color : #7C83FD;
+}
+
+img
+{
+    background-color : limegreen;
+    height: 150px;
+    border-radius: 70px;
+
+    
+}
+
+
+h1:hover 
+{
+    color: lightsalmon;
+}
+
+
+img:hover
+{
+    background-color: lightgreen;
+}
